@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <p align="center">
   ⚙️ Backend Developer | 💡 API Designer | 🚀 Full-Stack Enthusiast  
@@ -69,9 +69,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=silverboy66000&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!----<p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=silverboy66000&theme=dracula" alt="Contribution Graph" />
 </p>
+---->
 
 ---
 
