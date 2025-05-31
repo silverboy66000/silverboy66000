@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋 I'm [Your Name]</h1>
 
 <p align="center">
   ⚙️ Backend Developer | 💡 API Designer | 🚀 Full-Stack Enthusiast  
@@ -56,6 +56,30 @@
 - 💵 [Laravel Invoice SaaS Platform](https://github.com/yourusername/laravel-invoice-saas)
 - 🧩 [Custom WordPress Plugin with REST API](https://github.com/yourusername/wp-rest-plugin)
 - 📊 [Vue.js + Laravel CMS Panel](https://github.com/yourusername/vue-laravel-cms)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dracula" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
