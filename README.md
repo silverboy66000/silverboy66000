@@ -52,25 +52,25 @@
 ---
 
 ## 📌 Featured Projects
-- 🔧 [NestJS Clean Architecture Starter](https://github.com/yourusername/nestjs-clean-arch)
-- 💵 [Laravel Invoice SaaS Platform](https://github.com/yourusername/laravel-invoice-saas)
-- 🧩 [Custom WordPress Plugin with REST API](https://github.com/yourusername/wp-rest-plugin)
-- 📊 [Vue.js + Laravel CMS Panel](https://github.com/yourusername/vue-laravel-cms)
+- 🔧 [NestJS Clean Architecture Starter](https://github.com/silverboy66000/nestjs-clean-arch)
+- 💵 [Laravel Invoice SaaS Platform](https://github.com/silverboy66000/laravel-invoice-saas)
+- 🧩 [Custom WordPress Plugin with REST API](https://github.com/silverboy66000/wp-rest-plugin)
+- 📊 [Vue.js + Laravel CMS Panel](https://github.com/silverboy66000/vue-laravel-cms)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=silverboy66000&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silverboy66000&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=silverboy66000&theme=dracula" alt="Contribution Graph" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/silverboy66000/silverboy66000/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
