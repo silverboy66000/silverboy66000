@@ -2,7 +2,7 @@ name: Generate GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *" # هر روز ساعت ۰۰:۰۰ UTC اجرا شود
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: yourusername
+          github_user_name: silverboy66000
           outputs: |
             ./dist/github-contribution-grid-snake.svg
 
