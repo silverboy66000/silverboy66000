@@ -70,14 +70,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=silverboy66000&theme=dracula" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=silverboy66000&theme=dracula" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-activity-graph.vercel.app/graph?username=silverboy66000&theme=dracula" alt="Contribution Graph" />
 </p>
 
