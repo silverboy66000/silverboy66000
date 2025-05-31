@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
@@ -21,8 +23,12 @@
 ### Backend:
 - 🔹 **Laravel** – Eloquent ORM, Queues, Horizon, Sanctum
 - 🔸 **NestJS** – Modular architecture, DTOs, Guards, Interceptors
+- 💜 **PHP** – Core language, REST APIs, OOP, MVC
 - 🌐 RESTful APIs & GraphQL
 - 🧪 Testing: PHPUnit, Pest, Jest
+
+### CMS:
+- 🔵 **WordPress** – Theme & Plugin development, REST API integration
 
 ### Frontend:
 - 🟢 **Vue.js** – Composition API, Pinia/Vuex, Vue Router
@@ -40,24 +46,19 @@
 ## 🚧 Currently Working On
 - Microservice-based architecture with NestJS & Docker  
 - Admin dashboards using Vue.js and REST APIs  
-- Optimizing Laravel apps with Redis caching, queues & performance tuning
+- Optimizing Laravel apps with Redis caching, queues & performance tuning  
+- WordPress plugin development with custom REST APIs
 
 ---
 
 ## 📌 Featured Projects
 - 🔧 [NestJS Clean Architecture Starter](https://github.com/yourusername/nestjs-clean-arch)
 - 💵 [Laravel Invoice SaaS Platform](https://github.com/yourusername/laravel-invoice-saas)
+- 🧩 [Custom WordPress Plugin with REST API](https://github.com/yourusername/wp-rest-plugin)
 - 📊 [Vue.js + Laravel CMS Panel](https://github.com/yourusername/vue-laravel-cms)
 
 ---
 
-## 📫 Let's Connect!
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 📧 Email: [you@example.com](mailto:you@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
 <p align="center">
-  Built with 💙 using Laravel, NestJS, and Vue.js
+  Built with ❤️ using Laravel, NestJS, Vue.js, and PHP
 </p>
