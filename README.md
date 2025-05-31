@@ -60,10 +60,11 @@
 ---
 
 ## 📈 GitHub Stats
-
+<!----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=silverboy66000&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+--->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=silverboy66000&theme=radical" alt="GitHub Streak" />
